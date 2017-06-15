@@ -1,0 +1,2 @@
+
+char* getLine(FILE* stream);
