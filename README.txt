@@ -4,7 +4,7 @@ There are two ways to execute the shell:
 This will execute the shell402 program and prompt the user for commands
 at the command line until he or she decides to quit.
 
-2. Type into the command line: shell402 <scriptfile>
+2. Type into the command line: shell402 scriptfile
 where scriptfile is a file that contains commands to give to shell402
 and shell402 will read each command line by line and execute them.
 Each command should be separated by a newline.
